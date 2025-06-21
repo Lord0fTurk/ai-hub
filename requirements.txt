@@ -1,0 +1,5 @@
+flet>=0.7.0
+httpx>=0.24.0
+cryptography>=40.0
+pytest>=7.0
+pytest-asyncio>=0.20.0
