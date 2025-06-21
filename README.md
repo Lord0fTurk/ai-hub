@@ -1,4 +1,4 @@
-İşte projenin temelini ve kullanımını anlatan README.md taslağı:
+
 
 ````markdown
 # AI Hub - Unified Desktop AI Chat Client
